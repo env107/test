@@ -1,0 +1,22 @@
+{
+  "name": "env107",
+  "version": "1.0.0",
+  "description": "this is env107 nodejs",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "make env107",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/env107/test.git"
+  },
+  "author": "env107",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/env107/test/issues"
+  },
+  "homepage": "https://github.com/env107/test#readme"
+}
